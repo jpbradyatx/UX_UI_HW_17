@@ -12,7 +12,6 @@
 
 body {
   font-family: Courier;
-  background-image: url(images/Background2.png);
   background-attachment: fixed;
   background-size: cover;
   background-color: #002323;
@@ -53,9 +52,6 @@ body {
 body {
   font-family: Courier;
   color: #0e1b1b;
-  background-image: url(images/background2.png);
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
   width: fit-content;
   background-color: #002323;
 }
@@ -68,8 +64,6 @@ body {
   font-size: 32px;
   font-family: Cinder;
   width: 1728;
-  height: -webkit-fit-content;
-  height: -moz-fit-content;
   height: fit-content;
 }
 
