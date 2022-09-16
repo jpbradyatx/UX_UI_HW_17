@@ -11,7 +11,8 @@
 }
 
 body {
-  font-family: Courier;
+  font-family: Courier; 
+  
   background-attachment: fixed;
   background-size: cover;
   background-color: #002323;
